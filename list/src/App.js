@@ -1,11 +1,11 @@
 import List from "./components/List";
 
-function App() {
+const App = () => {
   return (
-    <div className="">
+    <div>
       <List />
     </div>
   );
-}
+};
 
 export default App;
