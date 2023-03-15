@@ -1,4 +1,4 @@
-import Mapping from "./components/Mapping";
+import Mapping from "./components/Chart";
 
 const App = () => {
   return (
