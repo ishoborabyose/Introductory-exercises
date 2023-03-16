@@ -1,11 +1,7 @@
 import Working from "./components/Working";
 
 const App = () => {
-  return (
-    <div>
-      <Working />
-    </div>
-  );
+  return <Working />;
 };
 
 export default App;
