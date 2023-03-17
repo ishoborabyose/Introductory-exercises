@@ -1,11 +1,7 @@
 import Furnish from "./components/Furnish";
 
 function App() {
-  return (
-    <>
-      <Furnish />
-    </>
-  );
+  return <Furnish />;
 }
 
 export default App;
